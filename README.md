@@ -1,5 +1,5 @@
 # ETISdbaseRCode
-R scripts for use in the [ETIS database](https://www.etis-testing.org).
+R scripts for use in the Elephant Trade Information System [(ETIS) database](https://www.etis-testing.org). 
 
 These scripts carry out data manipulations to obtain summary tables and plots of ETIS data for ETIS administrators and ETIS country reports.
 
