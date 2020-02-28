@@ -1,6 +1,8 @@
 # ETISdbaseRCode
 R scripts for use in the Elephant Trade Information System [(ETIS) database](https://www.etis-testing.org). 
 
+This package is used in conjunction with the code in the GitHub repository [fmunderwood/ETISdbase](https://github.com/fmunderwood/ETISdbase).
+
 These scripts carry out data manipulations to obtain summary tables and plots of ETIS data for ETIS administrators and ETIS country reports.
 
 These scripts were originally written by RW Burn under [Darwin Initiative Project 17-020](http://www.darwininitiative.org.uk/project/17020/) 
